@@ -4,7 +4,7 @@ Python es un lenguaje de programación de alto nivel. Se caracteriza por su sint
 
 ## Ejemplo
 
-python
->  nombre = input("¿Cuál es tu nombre? ")
->  print("Hola,", nombre)
-
+```py
+nombre = input("¿Cuál es tu nombre? ")
+print("Hola,", nombre)
+```
