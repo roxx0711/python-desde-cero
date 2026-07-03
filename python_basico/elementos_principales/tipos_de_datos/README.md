@@ -23,3 +23,12 @@ Son una característica fundamental de la programación que permite clasificar l
 
 >dict	               Colección de datos en 
 >                      pares clave-valor.	               {"nombre": "Ana", "edad": 20}
+>
+>tambien debes de explicar que es el reforzamiento de tipado de datos con cosas como
+```py
+tipo_string: str = ""
+
+def funcion(arg1: int, arg2: int) -> int:
+  resultado: int = arg1+arg2
+  return resultado
+```
