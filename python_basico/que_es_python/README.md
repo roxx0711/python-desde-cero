@@ -87,3 +87,7 @@ Hola, Alfonso
 ## ⭐ En resumen
 
 Python es un lenguaje de programación moderno, potente y fácil de aprender. Su sintaxis clara, su gran comunidad y la enorme cantidad de herramientas disponibles lo convierten en una excelente opción tanto para quienes comienzan a programar como para el desarrollo de proyectos profesionales en diferentes áreas de la tecnología.
+
+
+
+🏠 [Inicio](../../../README.md)

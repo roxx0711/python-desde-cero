@@ -197,3 +197,6 @@ while contador > 0:
 
 En este caso, el valor de `contador` nunca cambia, por lo que la condición siempre será verdadera y el programa nunca terminará.
 
+
+
+🏠 [Inicio](../../../README.md)
