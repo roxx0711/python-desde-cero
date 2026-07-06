@@ -4,19 +4,19 @@ Python está compuesto por diferentes elementos que permiten desarrollar program
 
 ## 📖 Contenido
 
-- 🔤 **[¿Qué es Python?](./01_Que_es_Python/README.md)**  
+- 🔤 **[¿Qué es Python?](./Que_es_python/README.md)**  
   Conoce qué es Python, sus principales características, ventajas y por qué es uno de los lenguajes de programación más utilizados en la actualidad.
 
-- 📊 **[Tipos de datos](./02_Tipos_de_Datos/README.md)**  
+- 📊 **[Tipos de datos](./tipos_de_datos/README.md)**  
   Aprende los tipos de datos básicos de Python, como `int`, `float`, `str`, `bool`, `list`, `tuple`, `set` y `dict`, además del uso de las anotaciones de tipos (*Type Hints*).
 
-- ⚙️ **[Funciones](./03_Funciones/README.md)**  
+- ⚙️ **[Funciones](./funciones/README.md)**  
   Descubre qué son las funciones, para qué sirven, cómo se crean, cuáles son sus partes y cómo ayudan a reutilizar código.
 
-- 🔀 **[Estructuras de decisión](./04_Estructuras_de_Decision/README.md)**  
+- 🔀 **[Estructuras de decisión](./estructura_de_decision/README.md)**  
   Aprende a utilizar `if`, `if...else` e `if...elif...else` para que un programa pueda tomar decisiones según diferentes condiciones.
 
-- 🔄 **[Bucles](./05_Bucles/README.md)**  
+- 🔄 **[Bucles](./bucles/README.md)**  
   Conoce cómo funcionan los ciclos `for` y `while`, cuándo utilizar cada uno y cómo repetir instrucciones de forma automática.
 
 ---
