@@ -4,7 +4,7 @@ Python está compuesto por diferentes elementos que permiten desarrollar program
 
 ## 📖 Contenido
 
-- 🔤 **[¿Qué es Python?](./Que_es_python/README.md)**  
+- 🔤 **[¿Qué es Python?](../que_es_python/README.md)**  
   Conoce qué es Python, sus principales características, ventajas y por qué es uno de los lenguajes de programación más utilizados en la actualidad.
 
 - 📊 **[Tipos de datos](./tipos_de_datos/README.md)**  
@@ -21,6 +21,3 @@ Python está compuesto por diferentes elementos que permiten desarrollar program
 
 ---
 
-## 🎯 Objetivo
-
-El objetivo de este repositorio es servir como una guía introductoria a Python, explicando de forma clara los conceptos fundamentales del lenguaje mediante ejemplos sencillos y fáciles de comprender. Cada sección profundiza en un tema específico para facilitar el aprendizaje y la consulta.
