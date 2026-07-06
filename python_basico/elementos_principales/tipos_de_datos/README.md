@@ -8,7 +8,7 @@ Gracias a los tipos de datos, Python puede interpretar correctamente el contenid
 
 ## 🔢 `int` (Integer)
 
-El nombre **´int´** proviene de la palabra inglesa **Integer**, que significa **número entero**.
+El nombre **`int`** proviene de la palabra inglesa **Integer**, que significa **número entero**.
 
 Se utiliza para representar números que **no tienen parte decimal**, ya sean positivos, negativos o cero.
 
