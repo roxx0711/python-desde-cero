@@ -36,7 +36,7 @@ Se llama así porque el punto decimal puede "flotar", permitiendo representar n�
 
 ### ¿Cuándo se utiliza?
 - Altura.
-- Peso.
+- Peso. 
 - Precios.
 - Promedios.
 - Mediciones.

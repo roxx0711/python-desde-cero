@@ -1,0 +1,11 @@
+GENERA DISTINTOS PROBLEMAS ORIENTADOS
+A RESOLVER PROBLEMAS O SOLUCIONES DEDICADOS
+A UNA ESTRUCTURA DEL SIGUIENTE TIPO:
+
+```
+while True:
+    if condicion:
+        break
+    else:
+        continue
+```
