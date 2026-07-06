@@ -7,7 +7,7 @@ Python está compuesto por diferentes elementos que permiten desarrollar program
 - 🔤 **[¿Qué es Python?](../que_es_python/README.md)**  
   Conoce qué es Python, sus principales características, ventajas y por qué es uno de los lenguajes de programación más utilizados en la actualidad.
 
-- 📊 **[Tipos de datos](./tipos_de_datos/README.md)**  
+- 📊 **[Tipos de datos](.//tipos_de_datos/README.md)**  
   Aprende los tipos de datos básicos de Python, como `int`, `float`, `str`, `bool`, `list`, `tuple`, `set` y `dict`, además del uso de las anotaciones de tipos (*Type Hints*).
 
 - ⚙️ **[Funciones](./funciones/README.md)**  
