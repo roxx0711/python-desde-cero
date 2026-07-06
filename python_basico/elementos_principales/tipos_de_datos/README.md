@@ -133,7 +133,7 @@ frutas.append("Uva")
 
 ## 📦 `tuple` (Tupla)
 
-El nombre **`tuple`** significa **tupla**.
+El nombre **`tuple`** significa **tupla** es una colección ordenada de elementos.
 
 Es muy parecida a una lista, pero tiene una diferencia importante:
 
@@ -160,14 +160,14 @@ Por ejemplo:
 ```python
 coordenadas = (10, 25)
 
-# coordenadas[0] = 15 ❌ Produce error
+
 ```
 
 ---
 
 ## 🎯 `set` (Conjunto)
 
-El nombre **`set`** significa **conjunto**, igual que en matemáticas.
+El nombre **`set`** significa **conjunto**.
 
 Almacena elementos **únicos**, por lo que elimina automáticamente los repetidos.
 
