@@ -1,14 +1,3 @@
-🏠 [Inicio](../../../README.md)
-
-📚 [Elementos principales](../README.md)
-
-⬅️ [Anterior: Tipos de datos](../tipos_de_datos/)
-
-➡️ [Siguiente: Estructuras de decisión](../estructura_de_decision/)
-
-
-
-
 # ⚙️ Funciones en Python
 
 Las **funciones** son bloques de código reutilizables que realizan una tarea específica. Su principal objetivo es **evitar repetir código**, haciendo que los programas sean más organizados, fáciles de leer y sencillos de mantener.
@@ -182,3 +171,7 @@ En este ejemplo:
 ## ⭐ En resumen
 
 Las funciones son una de las herramientas más importantes de Python, ya que permiten organizar el código, reutilizar instrucciones y desarrollar programas más limpios, claros y fáciles de mantener.
+
+
+
+🏠 [Inicio](../../../README.md)
