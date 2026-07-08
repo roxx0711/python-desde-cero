@@ -1,5 +1,10 @@
+numeros = [2,345,64,3,7,54,423,5]
 
-
+contador = 0 
+for numero in numeros: 
+    if numero % 2 ==0:
+        contador += 1
+print("la cantidad de pares son", contador)
 
 
 
