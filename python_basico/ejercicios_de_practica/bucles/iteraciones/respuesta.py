@@ -1,44 +1,158 @@
-numeros = [2,345,64,3,7,54,423,5]
+# ============================================================
+# EJERCICIOS DE PRÁCTICA:
+# ITERANDO DISTINTOS TIPOS DE DATOS
+# ============================================================
 
-contador = 0 
-for numero in numeros: 
-    if numero % 2 ==0:
+
+# ============================================================
+# PROBLEMA 1: RECORRER UNA PALABRA
+# ============================================================
+
+print("\n--- PROBLEMA 1: RECORRER UNA PALABRA ---")
+
+palabra = "python"
+
+for letra in palabra:
+    print(letra)
+
+
+# ============================================================
+# PROBLEMA 2: CONTAR VOCALES
+# ============================================================
+
+print("\n--- PROBLEMA 2: CONTAR VOCALES ---")
+
+texto = "Programacion en Python"
+vocales = "aeiouAEIOU"
+contador = 0
+
+for letra in texto:
+    if letra in vocales:
         contador += 1
-print("la cantidad de pares son", contador)
+
+print("Cantidad de vocales:", contador)
 
 
+# ============================================================
+# PROBLEMA 3: MOSTRAR NOMBRES
+# ============================================================
 
-"""
-## Problema 6: Contar números pares
+print("\n--- PROBLEMA 3: MOSTRAR NOMBRES ---")
 
-Recorre una lista de números e indica cuántos de ellos son pares.
+nombres = ["Ana", "Luis", "Marta", "Pedro"]
 
----
+for nombre in nombres:
+    print(nombre)
 
-## Problema 7: Mostrar una tupla
 
-Dada una tupla con los meses del año, muestra cada mes en una línea distinta.
+# ============================================================
+# PROBLEMA 4: SUMAR NÚMEROS
+# ============================================================
 
----
+print("\n--- PROBLEMA 4: SUMAR NÚMEROS ---")
 
-## Problema 8: Recorrer un conjunto
+numeros = [10, 5, 8, 20, 3]
+suma = 0
 
-Dado un conjunto de colores, muestra cada color en pantalla.
+for numero in numeros:
+    suma += numero
 
----
+print("La suma total es:", suma)
 
-## Problema 9: Mostrar claves y valores de un diccionario
 
-Dado un diccionario con información de un estudiante (nombre, edad y carrera), recorre el diccionario mostrando cada clave junto con su valor correspondiente.
+# ============================================================
+# PROBLEMA 5: ENCONTRAR EL NÚMERO MAYOR
+# ============================================================
 
----
+print("\n--- PROBLEMA 5: ENCONTRAR EL NÚMERO MAYOR ---")
 
-## Problema 10: Contar una letra específica
+numeros = [10, 45, 3, 67, 22]
+mayor = numeros[0]
 
-Recorre una palabra e indica cuántas veces aparece una letra ingresada por el usuario.
+for numero in numeros:
+    if numero > mayor:
+        mayor = numero
 
----
+print("El número mayor es:", mayor)
 
-## Problema 11: Buscar un elemento en una lista
 
-Recorre una lista de frutas y determina si existe una fruta indicada por el usuario. Si la encuentras, muestra un mensaje indicando que fue encontrada; de lo contrario, informa que no está en la lista."""
+# ============================================================
+# PROBLEMA 6: CONTAR NÚMEROS PARES
+# ============================================================
+
+print("\n--- PROBLEMA 6: CONTAR NÚMEROS PARES ---")
+
+numeros = [3, 8, 12, 7, 5, 20]
+contador = 0
+
+for numero in numeros:
+    if numero % 2 == 0:
+        contador += 1
+
+print("Cantidad de números pares:", contador)
+
+
+# ============================================================
+# PROBLEMA 7: MOSTRAR UNA TUPLA
+# ============================================================
+
+print("\n--- PROBLEMA 7: MOSTRAR UNA TUPLA ---")
+
+meses = ("Enero", "Febrero", "Marzo", "Abril")
+
+for mes in meses:
+    print(mes)
+
+
+# ============================================================
+# PROBLEMA 8: RECORRER UN CONJUNTO
+# ============================================================
+
+print("\n--- PROBLEMA 8: RECORRER UN CONJUNTO ---")
+
+colores = {"rojo", "verde", "azul"}
+
+for color in colores:
+    print(color)
+
+
+# ============================================================
+# PROBLEMA 9: MOSTRAR CLAVES Y VALORES DE UN DICCIONARIO
+# ============================================================
+
+print("\n--- PROBLEMA 9: MOSTRAR CLAVES Y VALORES ---")
+
+estudiante = {
+    "nombre": "Alfonso",
+    "edad": 22,
+    "carrera": "Analista Programador"
+}
+
+for clave, valor in estudiante.items():
+    print(clave, ":", valor)
+
+
+# ============================================================
+# PROBLEMA 10: CONTAR UNA LETRA ESPECÍFICA
+# ============================================================
+
+print("\n--- PROBLEMA 10: CONTAR UNA LETRA ---")
+
+palabra = "programacion"
+letra_buscada = input("Ingresa una letra a buscar: ")
+contador = 0
+
+for letra in palabra:
+    if letra == letra_buscada:
+        contador += 1
+
+print(f"La letra '{letra_buscada}' aparece {contador} veces")
+
+
+# ============================================================
+# FIN DEL PROGRAMA
+# ============================================================
+
+print("\n==============================================")
+print("TODOS LOS EJERCICIOS HAN TERMINADO")
+print("==============================================")
